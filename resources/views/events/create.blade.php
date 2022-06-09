@@ -4,6 +4,6 @@
 
 @section('content')
 
-<h1>Crie algum evento</h1>
-<h2>Isso</h2>
+<h1>Crie um evento</h1>
+
 @endsection
